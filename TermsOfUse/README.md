@@ -1,6 +1,6 @@
 # Terms of Use
 
-Welcome to Stay NZ. By using this app, you agree to the following terms and conditions. If you do not agree, please do not use the app.
+Welcome to StayNZ. By using this app, you agree to the following terms and conditions. If you do not agree, please do not use the app.
 
 **1. Purpose**
 This app is intended to help users estimate their eligibility for New Zealand Permanent Residency or Citizenship based on their residency and travel history. It is not affiliated with Immigration New Zealand.
