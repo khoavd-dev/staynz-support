@@ -1,6 +1,6 @@
 # Privacy Policy
 
-**Effective Date:** [Insert Date]
+**Effective Date:** 02/07/2025
 
 **StayNZ** ("the App") is developed to help migrants track their New Zealand residency and citizenship progress. We respect your privacy and are committed to protecting your personal data.
 
@@ -62,7 +62,7 @@ StayNZ is not intended for use by children under 13 years of age. We do not know
 
 If you have any questions or concerns about this Privacy Policy, please contact us:
 
-**Email:** [support@stay-nz.app](mailto:support@stay-nz.app)
+**Email:** [khoavd.dev@gmail.com](mailto:khoavd.dev@gmail.com)
 
 ---
 
