@@ -49,6 +49,7 @@ We aim to respond within 1–2 business days.
 ---
 
 ## 📄 Legal
+- [Privacy Policy](PrivacyPolicy/README.md)
 - [Terms of Use](TermsOfUse/README.md)
 
 ---
