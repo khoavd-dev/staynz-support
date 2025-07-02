@@ -56,4 +56,4 @@ We aim to respond within 1–2 business days.
 
 ## 🔗 Download StayNZ
 
-App Store link coming soon.
+[StayNZ](https://apps.apple.com/nz/app/staynz/id6747790295)
