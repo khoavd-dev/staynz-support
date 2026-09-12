@@ -11,8 +11,8 @@ The results and information provided by this app are general in nature and for i
 **3. Accuracy of Data**
 Eligibility outcomes are based on the information you enter. The accuracy of results depends entirely on the accuracy and completeness of your data.
 
-**4. Advertisements and Purchases**
-This app may display ads to support free access. Users can optionally purchase a one-time in-app upgrade to remove ads. No subscriptions or external payments are collected.
+**4. Purchases**
+StayNZ offers an optional one-time \"Premium\" purchase that permanently unlocks unlimited travel profiles, the travel impact planner, exporting your travel history, adding planned (future-dated) trips, and unlimited trip logging. This is a single, non-renewing payment — StayNZ does not offer subscriptions. Purchases can be restored on a new device via \"Restore Purchases\" and are shareable with your Family Sharing group where supported.
 
 **5. Privacy and Data**
 Your residency and travel data are stored locally on your device. We do not collect, transmit, or store any user data on external servers.
